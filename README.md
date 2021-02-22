@@ -26,9 +26,12 @@
     3. Deepfill v2기반 재학습 모델을 통해 선택한 사람을 삭제하고 inpainting(model inpainting)
     4. Background image와 Homography 행렬을 사용한 inpainting refine과정(homography inpainting)
 
-자세한 설명은 /paper/ARDR_in_images_using_camera_estimation_and_image_inpainting.pptx
+자세한 설명은 paper폴더와 하단의 youtube 링크 참조
+/paper/ARDR_in_images_using_camera_estimation_and_image_inpainting.pdf -- long version paper
+/paper/[ieie]ARDR_in_images_using_camera_estimation_and_image_inpainting.pdf -- short version paper
 
 ## 3. 결과 및 논문
+#### 논문 : /paper/ARDR_in_images_using_camera_estimation_and_image_inpainting.pdf
 #### 대한전자공학회 포스터 발표논문: /paper/[ieie]ARDR_in_images_using_camera_estimation_and_image_inpainting.pdf
 #### 대한전자공학회 포스터 발표영상: /video/[ieie]ARDR_in_images_using_camera_estimation_and_image_inpainting.mp4
-#### 프로젝트 발표 유튜브 링크: https://youtu.be/vc6aueLRqHA
+#### 프로젝트 발표 youtube 링크: https://youtu.be/vc6aueLRqHA
