@@ -1,8 +1,7 @@
 # 2020-1-Capstone-Desing-in-ICT
-
+# AR/DR in images using camera pose estimatio and image inpainting
+# 카메라 포즈 추정과 인페인팅을 이용한 AR/DR
 ## 0. 개요
-- AR/DR in images using camera pose estimation and image inpainting
-- 카메라 포즈 추정과 인페인팅을 이용한 AR/DR
 - 2020/1/1~2020/6/30일까지 진행한 졸업설계 프로젝트
 - 2인 1조로 진행
 - 본인은 image inpainting을 기반으로 한 DR를 주로 맡아 진행
