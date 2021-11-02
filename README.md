@@ -1,10 +1,10 @@
 # 2020-1-Capstone-Desing-in-ICT
-# AR/DR in images using camera pose estimatio and image inpainting
 # 카메라 포즈 추정과 인페인팅을 이용한 AR/DR
+# 이미지에서 관심 없는 타인을 지우는 "이미지 인페인팅 Tool" 개발
 ## 0. 개요
 - 2020/1/1~2020/6/30일까지 진행한 졸업설계 프로젝트
 - 2인 1조로 진행
-- 본인은 image inpainting을 기반으로 한 DR를 주로 맡아 진행
+- 본인은 이미지에서 관심 없는 타인을 지우는 "이미지 인페인팅 Tool"개발을 맡아 진행함
 
 
 ## 1. 프로젝트 주제선정
@@ -16,7 +16,7 @@
   AR의 구현을 위한 카메라 포즈 행렬은 Colmap을 사용해 취득, 가상 사물의 합성을 자연스럽고 입체감 있게 표현하기 위해 Phong reflection model을 사용
   DR의 구현을 위해 자동 human inpainting tool을 구현함
   
-## 2. DR - HUMAN INPAINTING TOOL 제작
+## 2. DR - HUMAN INPAINTING TOOL 제작(주로 맡아 진행한 부분)
 
 ### 2-1. tool 동작 순서
 
